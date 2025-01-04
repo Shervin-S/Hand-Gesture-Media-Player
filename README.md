@@ -12,11 +12,7 @@ This project uses OpenCV, MediaPipe, and PyAutoGUI to create a hand gesture-cont
 
 
 Requirements:
-
 Python 3.x
-
 OpenCV
-
 MediaPipe
-
 PyAutoGUI
