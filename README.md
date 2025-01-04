@@ -10,7 +10,9 @@ This project uses OpenCV, MediaPipe, and PyAutoGUI to create a hand gesture-cont
 
 5 Fingers: Play/Pause
 
+
 Requirements:
+
 Python 3.x
 
 OpenCV
