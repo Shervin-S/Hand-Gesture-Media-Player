@@ -3,12 +3,18 @@ This project uses OpenCV, MediaPipe, and PyAutoGUI to create a hand gesture-cont
 1 Finger: Skip to the next track
 
 2 Fingers: Go to the previous track
+
 3 Fingers: Increase volume
+
 4 Fingers: Decrease volume
+
 5 Fingers: Play/Pause
 
 Requirements:
 Python 3.x
+
 OpenCV
+
 MediaPipe
+
 PyAutoGUI
